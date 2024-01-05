@@ -1,0 +1,9 @@
+@import 'variables.css';
+
+:root {
+  font-size: 80%;
+}
+
+.katex {
+  color: var(--inline-code-color);
+}

@@ -1,0 +1,12 @@
+[book]
+authors = ["Vladislav Illarionov"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Хардкорная веб-разработка"
+
+
+[output.html]
+additional-css = ['theme/custom.css',]
+
+[preprocessor.katex]
