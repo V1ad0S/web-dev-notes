@@ -8,5 +8,6 @@ title = "Хардкорная веб-разработка"
 
 [output.html]
 additional-css = ['theme/custom.css',]
+fold = {enable = true}
 
 [preprocessor.katex]
