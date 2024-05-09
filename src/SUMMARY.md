@@ -8,3 +8,8 @@
     - [Шестнадцатиричная система](01_Computer-Science/04_hex-system.md)
     - [Как научить электричество считать?](01_Computer-Science/05_calculations.md)
 - [Програмное обеспечение]()
+- [Сессии, Cookies, безопасность](08_Sessions-Cookies-Security/README.md)
+    - [Авторизация и аутентификация](08_Sessions-Cookies-Security/01_authorization-authentication.md)
+    - [Хеш-функции](08_Sessions-Cookies-Security/02_hash-function.md)
+    - [Хранение паролей, механизм аутентификации](08_Sessions-Cookies-Security/03_storing-passwords.md)
+    - [Cookies](08_Sessions-Cookies-Security/04_cookies.md)
